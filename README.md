@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project focuses on developing SQL-based data analysis to extract key insights about the **performance of sales agents**, **managers**, and the **organization as a whole** from a sales dataset. By leveraging structured SQL queries, this project enables efficient performance measurement and ranking at multiple levels—agents, teams, and managers—helping stakeholders make data-driven decisions. RDBMS used was Microsoft SQL Server and queries were created using SQL Server Management Studio (SSMS)
+This project focuses on developing SQL-based data analysis to extract key insights about the **performance of sales agents**, **managers**, and the **organization as a whole** from a sales dataset. By leveraging structured SQL queries, this project enables efficient performance measurement and ranking at multiple levels—agents, teams, and managers—helping stakeholders make data-driven decisions. RDBMS used was Microsoft SQL Server and queries were created using SQL Server Management Studio (SSMS).
+
+**Link to Dataset:** https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e
 
 The project uses various SQL techniques such as:
 - **Aggregations** (`SUM`, `COUNT`, `AVG`)
