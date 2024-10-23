@@ -17,3 +17,5 @@ SELECT
     CloseValue / Wins AS AverageDeal
 FROM SalesAgentPerformance
 ORDER BY Wins DESC;
+
+![image](https://github.com/user-attachments/assets/618e7ca6-3075-4b31-a42b-5eb34db39c55)
